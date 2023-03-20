@@ -1,0 +1,243 @@
+ @import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@300;700&display=swap");
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "tajawal" , sans-serif;
+  text-align: center;
+  justify-content: center;
+  color: white
+}
+
+body {
+  
+
+
+background-color: #173358 
+
+  
+  
+
+}
+
+.s {
+  
+
+background: darkgoldenrod ;
+  text-align: center;
+  color: white;
+  margin: 28px;
+  border-radius: 20px
+}
+nav {
+  text-align: center;
+  
+  padding: 15px;
+  margin: 0px
+  
+}
+nav li {
+  display: inline-flex;
+  text-decoration: none;
+  text-align: center;
+  padding: 0 20px;
+  border: 1px solid  #f8f7fc;
+  margin: 9px;
+  
+
+background: linear-gradient(90deg,#8e2de2, #4a00e0);
+  border-radius: 15px;
+  color: white;
+  
+}
+
+.lma {
+  color: white;
+  text-align: center;
+  
+}
+.lma h2 {
+  background: darkgoldenrod
+}
+.lma2  {
+  p6adding: 50px;
+  margin: 89px;
+}
+.lma2 img {
+  width: 100%;
+  height: 50%;
+  
+}
+.lma2 h2 {
+  background: linear-gradient(darkgoldenrod, #714944 ) darkgoldenrod;
+  color: white;
+  border-radius: 20px;
+  margin: 30px;
+  padding: 0px
+}
+
+.ww {
+  display: block;
+  text-align: center;
+  margin: 4px;
+  padding: 2px;
+  top: 2px;
+  left: 2px;
+  right: 2px;
+  
+  }
+  .ww a {
+  text-decoration: none;
+  color: white
+  
+}
+.w1 {
+  width: 190px;
+  height: 300px;
+  background: antiquewhite ;
+  float: left;
+  border-radius: 15px;
+  margin: 1px;
+  
+}
+
+.w1 img {
+  border-radius:  15px;
+  width: 90%;
+  margin: 5px
+}
+
+
+.w2 {
+  width: 190px;
+  height: 320px;
+  background:  white;
+  float: right ;
+  border-radius: 15px;
+  margin: 2px;
+  padding: 3px
+  
+}
+.w2 img {
+  border-radius:  15px;
+  width: 100%;
+  margin: 2px
+}
+.w2 h3 {
+  background-color: lightseagreen;
+  border-radius: 15px 0 15px 0px ;
+  width: 50%;
+  float: right;
+  
+  transition-duration: 3s;
+
+
+}
+
+.w2 h2 {
+  color: #006987
+}
+.w1 {
+  width: 190px;
+  height: 320px;
+  background:  white;
+  float: left ;
+  
+  border-radius: 15px;
+  margin: 2px;
+  padding: 3px;
+  
+  
+}
+.w1 img {
+  border-radius:  15px;
+  width: 100%;
+  margin: 2px;
+  left: 2px;
+  right: 2px
+  
+}
+.w1 h3 {
+  background-color: darkgoldenrod;
+  border-radius: 15px 0 15px 0px ;
+  width: 50%;
+  float: right;
+  
+  transition-duration: 3s;
+
+ 
+}
+
+.w1 h2 {
+  color: darkgoldenrod
+}
+
+
+.w2 h3 :hover {
+  background: ghostwhite;
+  transition-duration: 0.s
+}
+marquee {
+  animation:step-start 3.s
+}
+
+
+
+.ww p {
+  color: slategrey
+}
+
+  
+.re  h3  {
+    text-decoration: none;
+    
+background: linear-gradient(90deg,#8e2de2, #4a00e0);
+    padding: 10px;
+    margin-top: 200px;
+    margin-bottom: 80px;
+    border-radius: 16px;
+    text-align: center;
+    
+  }
+  .re a{
+    text-decoration: none;
+    
+    
+  }
+
+
+.hll{
+  background: linear-gradient(90deg,#8e2de2, #4a00e0);
+  padding: 5px
+}
+.ee {
+  background: linear-gradient(90deg,#8e2de2, #4a00e0);
+  padding: 5px;
+  margin: 0
+  
+}
+#q :hover{
+  background: darkslateblue;
+  border-radius: 15px;
+  padding: 5px;
+  
+}
+
+.lma2 h2:hover {
+  padding: 3px;
+  border-radius: 15px;
+  background: linear-gradient(90deg,#8e2de2, #4a00e0);
+}
+.ar  :hover {
+    background: darkgoldenrod
+}
+
+.qqq {
+  margin: 10px;
+  margin-top: 300px;
+  background: lightslategrey;
+  border-radius: 15px
+  
+}

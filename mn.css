@@ -1,0 +1,15 @@
+ @import url("https://fonts.googleapis.com/css2?family=Lalezar&display=swap");
+ @import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@300;700&display=swap");
+
+
+
+body {
+  font-family: "tajawal" , sans-serif ;
+
+  background: #18253c;
+  color: white
+}
+div {
+  margin: 10px;
+  padding: 5px
+}
